@@ -11,7 +11,7 @@ form.addEventListener('submit',(e)=>{
    if(!validateInputs()){
     e.preventDefault();
    }else{
-      window.location.href='/index.html';
+     // window.location.href='/index.html';
    }
 
 })
