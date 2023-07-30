@@ -52,7 +52,7 @@ h1{
 select{
     border: 1px solid lightblue;
     width: 100px;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: bold;
     height: 3vh;
 }
